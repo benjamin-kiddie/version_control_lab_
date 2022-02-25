@@ -1,4 +1,4 @@
-# version_control_lab_ & #Plaintext_and_FOSS
+# version_control_lab_ & plaintext_and_foss
 
 ## The Program Function and Basics
 
