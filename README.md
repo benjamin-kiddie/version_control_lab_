@@ -8,6 +8,6 @@ Prompts user to enter their name and age. The program converts this age to dog y
 
 In order to contribute, fork the project, make changes, then commit them. Project manager will review and approve changes if they are appropriate.
 
-## Code Of Condutc
+## Code Of Conduct
 
-We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil and follows the guidelines listed in the [CoC](version_control_lab_/CODE_OF_CONDUCT). 
+We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil and follows the guidelines listed in the [CoC](version_control_lab_/"CODE OF CONDUCT.md"). 
