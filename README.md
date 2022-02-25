@@ -10,4 +10,4 @@ In order to contribute, fork the project, make changes, then commit them. Projec
 
 ## Code Of Conduct
 
-We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil and follows the guidelines listed in the [CoC](/version_control_lab_/CODE-OF-CONDUCT.md). 
+We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil by following the guidelines established in the [CoC](/version_control_lab_/CODE-OF-CONDUCT.md). 
