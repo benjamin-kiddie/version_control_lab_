@@ -2,8 +2,8 @@
 
 ## The Program Function and Basics
 
-Takes in int input from user and reads their age. Using this age, the program converts it to dog years and prints the user's age in dog years.
+Prompts user to enter their name and age. The program converts this age to dog years and reports this information back to the user.
 
 ## How to Contribute
 
-A user can contribute by clicking fork on the top right corner of the repository, editing the program, and then committing.
+In order to contribute, fork the project, make changes, then commit them. Project manager will review and approve changes if they are appropriate.
