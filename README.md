@@ -11,4 +11,4 @@ Additionally, this project operates under the Unlicense, meaning anyone who wish
 
 ## Code Of Conduct
 
-We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil by following the guidelines established in the [CoC](https://github.com/benjamin-kiddie/version_control_lab_/blob/main/CODE-OF-CONDUCT.md). 
+We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil while collaborating by following the guidelines established in the [CoC](https://github.com/benjamin-kiddie/version_control_lab_/blob/main/CODE-OF-CONDUCT.md). 
