@@ -7,6 +7,7 @@ Prompts user to enter their name and age. The program converts this age to dog y
 ## How to Contribute
 
 In order to contribute, fork the project, make changes, then commit them. Project manager will review and approve changes if they are appropriate.
+Additionally, this project operates under the Unlicense, meaning anyone who wishes to alter and redistribute the code is free to do so. For more details, please look at the license [here](https://github.com/benjamin-kiddie/version_control_lab_/blob/main/LICENSE.md)
 
 ## Code Of Conduct
 
