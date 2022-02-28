@@ -1,8 +1,8 @@
 # version_control_lab_ & plaintext_and_foss
 
-## The Program Function and Basics
+## The Program's Function
 
-Prompts user to enter their name and age. The program converts this age to dog years and reports this information back to the user.
+The program prompts user to enter their name and age. It then converts this age to dog years and reports this information back to the user.
 
 ## How to Contribute
 
@@ -11,4 +11,4 @@ Additionally, this project operates under the Unlicense, meaning anyone who wish
 
 ## Code Of Conduct
 
-We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil while collaborating by following the guidelines established in the [CoC](https://github.com/benjamin-kiddie/version_control_lab_/blob/main/CODE-OF-CONDUCT.md). 
+We ask that participants follow the guidelines established in the [Code of Conduct](https://github.com/benjamin-kiddie/version_control_lab_/blob/main/CODE-OF-CONDUCT.md). We chose to use this Code of Conduct to ensure that everyone who uses this algorithm remains civil while collaborating.
